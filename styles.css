@@ -94,7 +94,7 @@ main {
 
 .about-token, .token-details, .buy-now-section {
     text-align: center;
-    color: black;
+    color: white;
     margin-bottom: 20px;
 }
 
@@ -102,7 +102,7 @@ main {
 .buy-now {
     display: inline-block;
     background-color: #4CAF50;
-    color: black;
+    color: white;
     padding: 10px 20px;
     margin-top: 10px;
     text-decoration: none;
