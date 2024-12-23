@@ -54,7 +54,7 @@ nav.follow-us li {
 }
 
 nav.follow-us a {
-    color: red;
+    color: rgba(48, 151, 191);
     text-decoration: none;
     font-weight: bold;
     padding: 8px 15px;
