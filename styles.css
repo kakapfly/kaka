@@ -94,7 +94,7 @@ main {
 
 .about-token, .token-details, .buy-now-section {
     text-align: center;
-    color: white;
+    color: rgba(54, 70, 49);
     margin-bottom: 20px;
 }
 
