@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-     background-color: light yellow ; /* Set your background image */ 
+     background-color: rgba(240, 236, 141) ; /* Set your background image */ 
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
